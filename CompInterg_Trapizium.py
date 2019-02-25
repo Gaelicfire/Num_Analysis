@@ -57,3 +57,4 @@ for i in range(N-1):
 I = (h/2)*(y[0] + y[N]) + h*I 
   
 print(I) 
+print(N)
